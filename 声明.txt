@@ -1,0 +1,4 @@
+声明:
+此作品原版由Github码猿suulnnka制作
+本人对他进行了一点升级
+原版网址：https://suulnnka.github.io/BullshitGenerator/
